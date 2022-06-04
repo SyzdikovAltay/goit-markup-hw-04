@@ -130,6 +130,7 @@ ul.navlist li{
     border-radius: 4px;
     margin-left: auto;
     margin-right: auto;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
 
 .order-btn:hover,
