@@ -337,7 +337,6 @@ h1{
     text-align: center;
     letter-spacing: 0.03em;
     color: #212121;
-    width: 160px;
     margin: auto;
     word-wrap: break-word;
 }
@@ -408,6 +407,7 @@ h2{
 .footer>.container{
     display: flex;
     justify-content: flex-start;
+    align-items: baseline;
 }
 .footer-contacts{
     display: flex;
@@ -503,8 +503,6 @@ footer .webstudiolink{
 }
 .social-footer{
     margin-left: 70px;
-    margin-top: 12px;
-    align-items: baseline;
 }
                              /*Портфолио*/ 
 
